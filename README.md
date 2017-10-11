@@ -1,6 +1,7 @@
 # AwesomeToolForOs
 Awesome tools for mac/ linux /windows
 
+oh-my-zsh
 
 #project manage
 EdrawMax
