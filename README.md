@@ -28,10 +28,12 @@ MOVIST
 VCL
 mpv
 IINA
+IINA-plus
 
 #NTFS
 Mounty
 
+youtube-dl
 
 IINA
 
