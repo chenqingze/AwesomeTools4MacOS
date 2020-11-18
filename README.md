@@ -17,11 +17,13 @@ tree
 Amethyst
 
 #编辑器
-sublime
+emacs
+vim
 coteditor
-MacDown
+type
 
-
+#壁纸
+paper
 
 #视频video
 MOVIST
@@ -29,13 +31,12 @@ VCL
 mpv
 IINA
 IINA-plus
+youtube-dl
 
 #NTFS
 Mounty
 
-youtube-dl
 
-IINA
 
 brew
 
@@ -148,13 +149,19 @@ Visualvm
 
 抓包
 
-
-
-
 • 使用 tmux 管理终端 Session(mac 用不到)
 • 使用 spf13-vim 作为终极 Vim plugins
 • 使用 Powerlevel9k 作为主题 Theme
 • 使用 fonts-powerline 用作字体 Fonts，推荐 Meslo LG M Regular for Powerline
+
+
+
+                  firefox-developer-edition       mounty
+                                               paper
+cheatsheet                      insomnia                        tunnelblick
+dbeaver-enterprise              iterm2                          typora
+docker                                     v2rayx
+eudic                           microsoft-edge                  yyets
 
 
 
