@@ -1,17 +1,17 @@
 # 软件包管理器：
 brew
 
-#文件对比工具
+# 文件对比工具
 beyond compare
 
-#数据库客户端
+# 数据库客户端
 dbeaver-enterprise         
 
-#英文字典
+# 英文字典
 eudic                           
   
 
-#浏览器
+# 浏览器
 google-chrome  
 Firefox
 firefox-developer-edition
@@ -21,37 +21,37 @@ microsoft-edge
 Htop
 
 
-#播放器
+# 播放器
 MOVIST
 IINA
 IINA-plus
 
-#api请求测试工具
+# api请求测试工具
 insomnia                        
 postman
 
 
-#终端
+# 终端
 iterm2                          
 
-#远程windows
+# 远程windows
 microsoft remote desktop
              
 
 
-#jdk相关：
+# jdk相关：
 adoptopenjdk
 Visualvm
 
 
-#U盘启动：
+# U盘启动：
 Ventoy
 
-#代理：
+# 代理：
 v2rayX 
 shadowsocks
 
-#编辑工具：
+# 编辑工具：
 Emacs
 Typora
 vim
@@ -65,20 +65,20 @@ ms office
 # 访问NTFS格式硬盘
 Mounty
 
-#窗口管理工具
+# 窗口管理工具
 magnet
 spectacle
 
-#压缩文件管理工具
+# 压缩文件管理工具
 the unarchiver
 
-#vpn 客户端
+# vpn 客户端
 Tunnelblick
 
 
 
 
-#其他
+# 其他
 cheatsheet
 Go2shell
 Wireshark
