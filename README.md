@@ -79,20 +79,20 @@ Tunnelblick
 
 
 # 其他
-cheatsheet
-Go2shell
-Wireshark
-Charles
-tcpdump
-Telegram
-Wget
-Tree
+cheatsheet 
+Go2shell 
+Wireshark 
+Charles 
+tcpdump 
+Telegram 
+Wget 
+Tree 
 youtube-dl
-
+ 
 Oh-my-zsh:
-autojump
-zsh-autosuggestions
-zsh-completions
-zsh-history-substring-search
-zsh-syntax-highlighting
-zsh-navigation-tools
+  autojump
+  zsh-autosuggestions
+  zsh-completions
+  zsh-history-substring-search
+  zsh-syntax-highlighting
+  zsh-navigation-tools
