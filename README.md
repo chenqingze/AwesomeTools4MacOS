@@ -1,4 +1,3 @@
-
 # 软件包管理器：
 brew
 
@@ -92,3 +91,12 @@ Wget
 Tree
 youtube-dl
 ![image](https://user-images.githubusercontent.com/8285776/113665567-40447100-96e0-11eb-9cd5-f2d66589bcdc.png)
+
+Oh-my-zsh:
+autojump
+zsh-autosuggestions
+zsh-completions
+zsh-history-substring-search
+zsh-syntax-highlighting
+zsh-navigation-tools
+![image](https://user-images.githubusercontent.com/8285776/113667012-c19d0300-96e2-11eb-9458-7172917247e3.png)
