@@ -1,167 +1,94 @@
-# AwesomeToolForOs
-Awesome tools for mac/ linux /windows
 
-oh-my-zsh
-
-#project manage
-EdrawMax
-
-
-# dev
-JDK version manager : jenv [mac/linux]
-iterm
-iconv
-tree
-
-#window manager
-Amethyst
-
-#编辑器
-emacs
-vim
-coteditor
-type
-
-#壁纸
-paper
-
-#视频video
-MOVIST
-VCL
-mpv
-IINA
-IINA-plus
-youtube-dl
-
-#NTFS
-Mounty
-
-
-
+# 软件包管理器：
 brew
 
-Etrecheck
-
-Dr.cleaner
-
-cheatsheet
-
-the unarchiver
-
-android 文件传输
-
-spectacle
-
-microsoft remote desktop
-
-hostToolForMac
-
-edraw max
-ms office
-cotEditor
-
-sublime text
-
-macdown 
-接口测试
-
-postman
-insomnia
-
+#文件对比工具
 beyond compare
 
+#数据库客户端
+dbeaver-enterprise         
 
+#英文字典
+eudic                           
+  
 
-
-
-FORMULA:
-Aspell
-autojump				
-bat					
-Emacs
-python
-gcc				
-Weechat
-Oh-my-zsh:
-	zsh-autosuggestions
-	zsh-completions
-	zsh-history-substring-search
-	zsh-syntax-highlighting
-	zsh-navigation-tools
-Vim
-Tree
-Wget
-Curl
-Tmux
-Coreutils
-Binutils
-Diffutils
-Findutils
-The_silver_searcher
-Htop
-Axel
-Shellcheck
-Tldr
-Ncdu
-Glances
-Nmap
-Pstree
-
-
-
-
- youtube-dl
-
-Cask:
-HandShaker/android-file-transfer   
+#浏览器
+google-chrome  
 Firefox
-google-chrome
-iterm2                
-Go2shell   
-postman   
-Charles
-wechat
-motrix                   
-qq                       
-yyets
-Typora
-mounty                   
-v2rayX
-spectacle
-iina                     
-neteasemusic             
-staruml
-the-unarchive  
-vscode
-adobe-acrobat-reader
+firefox-developer-edition
+microsoft-edge
 
-Telegram
+# 监控
+Htop
 
 
-Wireshark
-Rdm
-Edrawmax
-microsoft-remote-desktop-beta
-Typora
-Tunnelblick
+#播放器
+MOVIST
+IINA
+IINA-plus
+Imageoptim 改变图片大小![image](https://user-images.githubusercontent.com/8285776/113664169-db881700-96dd-11eb-9e7d-59a94638756e.png)
+
+
+#api请求测试工具
+insomnia                        
+postman
+
+
+#终端
+iterm2                          
+
+#远程windows
+microsoft remote desktop
+             
+
+
+#jdk相关：
+adoptopenjdk
 Visualvm
 
 
-抓包
+#U盘启动：
+Ventoy
 
-• 使用 tmux 管理终端 Session(mac 用不到)
-• 使用 spf13-vim 作为终极 Vim plugins
-• 使用 Powerlevel9k 作为主题 Theme
-• 使用 fonts-powerline 用作字体 Fonts，推荐 Meslo LG M Regular for Powerline
+#代理：
+v2rayX 
+shadowsocks
+
+#编辑工具：
+Emacs
+Typora
+vim
+edraw max
+visual-paradigm-ce
+vscode
+Omnigraffle
+Mindnode
+ms office
+
+# 访问NTFS格式硬盘
+Mounty
+
+#窗口管理工具
+magnet
+spectacle
+
+#压缩文件管理工具
+the unarchiver
+
+#vpn 客户端
+Tunnelblick
 
 
 
-                  firefox-developer-edition       mounty
-                                               paper
-cheatsheet                      insomnia                        tunnelblick
-dbeaver-enterprise              iterm2                          typora
-docker                                     v2rayx
-eudic                           microsoft-edge                  yyets
 
-
-
+#其他
+cheatsheet
+Go2shell
+Wireshark
+Charles
+tcpdump
+Telegram
+Wget
+Tree
+youtube-dl
+![image](https://user-images.githubusercontent.com/8285776/113665567-40447100-96e0-11eb-9cd5-f2d66589bcdc.png)
