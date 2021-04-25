@@ -78,21 +78,21 @@ Tunnelblick
 
 
 
-# 其他
-cheatsheet 
-Go2shell 
-Wireshark 
+# 其他  
+cheatsheet   
+Go2shell  
+Wireshark  
 Charles 
-tcpdump 
-Telegram 
-Wget 
-Tree 
-youtube-dl
+tcpdump  
+Telegram  
+Wget  
+Tree  
+youtube-dl  
  
-Oh-my-zsh:
-  autojump
-  zsh-autosuggestions
-  zsh-completions
-  zsh-history-substring-search
-  zsh-syntax-highlighting
-  zsh-navigation-tools
+Oh-my-zsh:  
+-  autojump
+-  zsh-autosuggestions
+-  zsh-completions
+-  zsh-history-substring-search
+-  zsh-syntax-highlighting
+-  zsh-navigation-tools
