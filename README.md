@@ -72,6 +72,9 @@ Tunnelblick
 v2rayx
 shadowsocksx-ng
 
+# 屏幕倒计时
+justfocus
+
 # 键盘修改器
 karabiner-elements
 
@@ -81,7 +84,6 @@ youtube-dl
 
 # 其他  
 catchMouse 光标多屏幕移动
-rescuetime 屏幕使用倒计时
 cheatsheet 快捷键
 Go2shell  finder当前目录shell打开
 Wireshark  
