@@ -12,14 +12,11 @@ eudic
   
 
 # 浏览器
-google-chrome  
-Firefox
 firefox-developer-edition
 microsoft-edge
 
 # 监控
 Htop
-
 
 # 播放器
 MOVIST
@@ -36,8 +33,6 @@ iterm2
 
 # 远程windows
 microsoft remote desktop
-             
-
 
 # jdk相关：
 adoptopenjdk
@@ -47,20 +42,20 @@ Visualvm
 # U盘启动：
 Ventoy
 
-# 代理：
-v2rayX 
-shadowsocks
-
-# 编辑工具：
+# 编辑和设计工具：
 Emacs
 Typora
 vim
+vscode
+idea
+microsoft office
 edraw max
 visual-paradigm-ce
-vscode
 Omnigraffle
 Mindnode
-ms office
+sketch
+sketchpacks
+figma
 
 # 访问NTFS格式硬盘
 Mounty
@@ -74,20 +69,28 @@ the unarchiver
 
 # vpn 客户端
 Tunnelblick
+v2rayx
+shadowsocksx-ng
 
+# 键盘修改器
+karabiner-elements
 
-
+# 下载工具
+webtorrent
+youtube-dl 
 
 # 其他  
-cheatsheet   
-Go2shell  
+catchMouse 光标多屏幕移动
+rescuetime 屏幕使用倒计时
+cheatsheet 快捷键
+Go2shell  finder当前目录shell打开
 Wireshark  
 Charles   
 tcpdump  
-Telegram  
+telegram-desktop  
 Wget  
 Tree  
-youtube-dl  
+ 
  
 Oh-my-zsh:  
 -  autojump
