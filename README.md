@@ -2,7 +2,7 @@
 brew
 
 # 文件对比工具
-beyond compare
+beyondcompare
 
 # 数据库客户端
 dbeaver-enterprise         
@@ -32,10 +32,10 @@ postman
 iterm2                          
 
 # 远程windows
-microsoft remote desktop
+microsoft-remote-desktop
 
 # jdk相关：
-adoptopenjdk
+adoptopenjdk  
 Visualvm
 
 
@@ -43,34 +43,35 @@ Visualvm
 Ventoy
 
 # 编辑和设计工具：
-Emacs
-Typora
-vim
-vscode
-idea
-microsoft office
-edraw max
-visual-paradigm-ce
-Omnigraffle
-Mindnode
-sketch
-sketchpacks
-figma
+Emacs  
+Typora  
+vim  
+vscode  
+Intellij-idea  
+microsoft-office    
+edraw max  
+visual-paradigm-ce    
+OmniGraffle  
+OmniPlan  
+Mindnode   
+sketch   
+sketchpacks  
+figma  
 
 # 访问NTFS格式硬盘
 Mounty
 
 # 窗口管理工具
-magnet
+magnet  
 spectacle
 
 # 压缩文件管理工具
-the unarchiver
+the-unarchiver
 
 # vpn 客户端
-Tunnelblick
-v2rayx
-shadowsocksx-ng
+Tunnelblick  
+v2rayx  
+shadowsocksx-ng  
 
 # 屏幕倒计时
 justfocus
@@ -79,13 +80,13 @@ justfocus
 karabiner-elements
 
 # 下载工具
-webtorrent
+webtorrent  
 youtube-dl 
 
 # 其他  
-catchMouse 光标多屏幕移动
-cheatsheet 快捷键
-Go2shell  finder当前目录shell打开
+catchMouse 光标多屏幕移动  
+cheatsheet 快捷键  
+Go2shell  finder当前目录shell打开  
 Wireshark  
 Charles   
 tcpdump  
