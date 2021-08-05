@@ -12,16 +12,16 @@ eudic
   
 
 # 浏览器
-firefox-developer-edition
-microsoft-edge
+firefox-developer-edition  
+microsoft-edge  
 
 # 监控
 Htop
 
 # 播放器
-MOVIST
-IINA
-IINA-plus
+MOVIST  
+IINA  
+IINA-plus  
 
 # api请求测试工具
 insomnia                        
