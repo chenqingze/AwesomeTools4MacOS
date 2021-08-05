@@ -45,17 +45,15 @@ Ventoy
 # 编辑和设计工具：
 Emacs  
 Typora  
-vim  
-vscode  
+vim   
 Intellij-idea  
 microsoft-office    
-edraw max  
+edraw-max  
 visual-paradigm-ce    
 OmniGraffle  
 OmniPlan  
 Mindnode   
-sketch   
-sketchpacks  
+sketch    
 figma  
 
 # 访问NTFS格式硬盘
