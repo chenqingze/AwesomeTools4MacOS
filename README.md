@@ -40,7 +40,7 @@ Visualvm
 
 
 # U盘启动：
-Ventoy
+Ventoy (unsupport macos)
 
 # 编辑和设计工具：
 Emacs  
