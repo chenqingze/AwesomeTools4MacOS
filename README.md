@@ -88,10 +88,10 @@ Go2shell  finder当前目录shell打开
 Wireshark  
 Charles   
 tcpdump  
-telegram-desktop  
+mtr
 Wget  
 Tree  
- 
+doom-emacs 
  
 Oh-my-zsh:  
 -  autojump
