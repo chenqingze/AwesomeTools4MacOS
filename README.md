@@ -44,9 +44,9 @@ Ventoy
 
 # 编辑和设计工具：
 Emacs  
-Typora  
-vim   
-Intellij-idea  
+doom-emacs   
+vim    
+Intellij-idea   
 microsoft-office    
 edraw-max  
 visual-paradigm-ce    
@@ -55,6 +55,8 @@ OmniPlan
 Mindnode   
 sketch    
 figma  
+Typora  
+
 
 # 访问NTFS格式硬盘
 Mounty
@@ -91,7 +93,7 @@ tcpdump
 mtr
 Wget  
 Tree  
-doom-emacs 
+
  
 Oh-my-zsh:  
 -  autojump
