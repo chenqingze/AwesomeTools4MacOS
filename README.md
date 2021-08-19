@@ -43,19 +43,20 @@ Visualvm
 Ventoy (unsupport macos)
 
 # 编辑和设计工具：
-Emacs  
-doom-emacs   
-vim    
-Intellij-idea   
-microsoft-office    
-edraw-max  
-visual-paradigm-ce    
-OmniGraffle  
-OmniPlan  
-Mindnode   
-sketch    
-figma  
-Typora  
+Emacs（C/C++/rust开发|多文件编辑）  
+doom-emacs（C/C++/rust开发）   
+vim（文本编辑）    
+Intellij-idea（Java/Go/Rust/Kotlin开发|多文件编辑）     
+microsoft-office（办公）    
+edraw-max（图表设计）  
+visual-paradigm-ce（软件工程管理）    
+OmniGraffle（图表设计）  
+OmniPlan（需求/任务管理）  
+Mindnode（思维导图/头脑风暴）   
+sketch（原型设计）    
+figma（原型设计）  
+Typora（markdown）  
+AsciiDocFX（AsciiDoc）  
 
 
 # 访问NTFS格式硬盘
