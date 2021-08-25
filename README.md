@@ -84,7 +84,7 @@ karabiner-elements
 
 # 下载工具
 webtorrent  
-youtube-dl 
+youtube-dl（在线视频下载） 
 
 # 其他  
 catchMouse（光标多屏幕移动）  
