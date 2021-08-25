@@ -66,6 +66,7 @@ Mounty
 # 窗口管理工具
 magnet  
 spectacle
+FinderGo(直接打开终端)
 
 # 压缩文件管理工具
 the-unarchiver
