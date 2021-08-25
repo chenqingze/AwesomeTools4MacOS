@@ -87,9 +87,8 @@ webtorrent
 youtube-dl 
 
 # 其他  
-catchMouse 光标多屏幕移动  
-cheatsheet 快捷键提示  
-Go2shell  finder当前目录shell打开  
+catchMouse（光标多屏幕移动）  
+cheatsheet（快捷键提示）  
 Wireshark  
 Charles   
 tcpdump  
