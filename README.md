@@ -43,9 +43,9 @@ Visualvm
 Ventoy (unsupport macos)
 
 # 编辑和设计工具：
+vim（单文本编辑）  
 Emacs（C/C++/rust开发|多文件编辑）  
-doom-emacs（C/C++/rust开发）   
-vim（文本编辑）    
+doom-emacs（C/C++/rust开发|多文件编辑）      
 Intellij-idea（Java/Go/Rust/Kotlin开发|多文件编辑）     
 microsoft-office（办公）    
 edraw-max（图表设计）  
