@@ -53,9 +53,9 @@ visual-paradigm-ce（软件工程管理）
 OmniGraffle（图表设计）  
 OmniPlan（需求/任务管理）  
 Mindnode（思维导图/头脑风暴）   
-sketch（原型设计）    
-figma（原型设计）
-flinto（交互设计）  
+sketch（原型设计）     
+figma（原型设计）  
+flinto（交互设计）   
 Typora（markdown）  
 AsciiDocFX（AsciiDoc）   
 
