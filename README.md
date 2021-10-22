@@ -35,8 +35,8 @@ iterm2
 microsoft-remote-desktop
 
 # jdk相关：
-temurin(原adoptopenjdk） 
-visualvm
+temurin(原adoptopenjdk）    
+visualvm   
 
 
 # U盘启动：
