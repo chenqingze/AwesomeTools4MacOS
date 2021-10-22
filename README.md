@@ -57,7 +57,13 @@ sketch（原型设计）
 figma（原型设计）
 flinto（交互设计）  
 Typora（markdown）  
-AsciiDocFX（AsciiDoc）  
+AsciiDocFX（AsciiDoc）   
+
+# 标记语言转换  
+pandoc  
+
+# 记录工具  
+logseq  
 
 
 # 访问NTFS格式硬盘
