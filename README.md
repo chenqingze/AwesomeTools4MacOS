@@ -56,6 +56,7 @@ Mindnode（思维导图/头脑风暴）
 sketch（原型设计）     
 figma（原型设计）  
 flinto（交互设计）   
+principle（交互设计）   
 Typora（markdown）  
 AsciiDocFX（AsciiDoc）   
 
