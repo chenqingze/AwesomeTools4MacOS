@@ -2,8 +2,8 @@
 brew
 
 # dotfiles 管理
+rcm  
 chezmoi   
-rcm   
 
 # 文件对比工具
 beyondcompare
