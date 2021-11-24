@@ -1,5 +1,9 @@
-# 软件包管理器：
+# 软件包管理器
 brew
+
+# dotfiles 管理
+chezmoi   
+rcm   
 
 # 文件对比工具
 beyondcompare
