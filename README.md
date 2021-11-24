@@ -111,6 +111,5 @@ Tree
 Oh-my-zsh:  
 -  autojump (需安装，然后配置ohmyzsh plugin参数)    
 -  zsh-navigation-tools （无需安装，直接配置ohmyzsh plugin参数）   
--  emacs (无需安装，直接配置ohmyzsh plugin参数)   
 -  zsh-autosuggestions（需额外安装和配置）   
 -  zsh-syntax-highlighting（需额外安装和配置）  
