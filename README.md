@@ -61,7 +61,7 @@ sketch（原型设计）
 figma（原型设计）  
 flinto（交互设计）   
 principle（交互设计）   
-Typora（markdown）  
+MacDown（markdown）  
 AsciiDocFX（AsciiDoc）   
 
 # 标记语言转换  
