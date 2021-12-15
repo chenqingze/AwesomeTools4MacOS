@@ -98,18 +98,23 @@ webtorrent
 youtube-dl（在线视频下载） 
 
 # 其他  
+keycastr（屏幕显示键盘操作）
 catchMouse（光标多屏幕移动）  
 cheatsheet（快捷键提示）  
 Wireshark  
 Charles   
-tcpdump  
-mtr
-Wget  
-Tree  
 
- 
-Oh-my-zsh:  
--  autojump (需安装，然后配置ohmyzsh plugin参数)    
--  zsh-navigation-tools （无需安装，直接配置ohmyzsh plugin参数）   
--  zsh-autosuggestions（需额外安装和配置）   
--  zsh-syntax-highlighting（需额外安装和配置）  
+# 终端工具：  
+tcpdump  
+mtr  
+Wget   
+Tree   
+curl 
+autojump  
+fzf  
+zsh-syntax-highlighting  
+zsh-autosuggestions  
+zsh-navigation-tools  
+zsh-completions
+
+  
