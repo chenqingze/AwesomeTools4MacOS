@@ -115,7 +115,7 @@ autojump
 fzf   
 zsh-syntax-highlighting  
 zsh-autosuggestions  
-zsh-navigation-tools  
+zsh-navigation-tools(desperated)  
 zsh-completions
 
   
