@@ -98,8 +98,8 @@ webtorrent
 youtube-dl（在线视频下载） 
 
 # 其他  
-keycastr（屏幕显示键盘操作）
-catchMouse（光标多屏幕移动）  
+keycastr（屏幕显示键盘操作）   
+catchMouse（光标多屏幕移动）    
 cheatsheet（快捷键提示）  
 Wireshark  
 Charles   
@@ -109,9 +109,9 @@ tcpdump
 mtr  
 Wget   
 Tree   
-curl 
-autojump  
-fzf  
+curl  
+autojump    
+fzf   
 zsh-syntax-highlighting  
 zsh-autosuggestions  
 zsh-navigation-tools  
