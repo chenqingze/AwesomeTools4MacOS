@@ -112,10 +112,12 @@ Wget
 Tree   
 curl  
 autojump    
-fzf   
-zsh-syntax-highlighting  
+fzf  
 zsh-autosuggestions  
+zsh-syntax-highlighting  
+zsh-history-substring-search  
+zsh-completions  
 zsh-navigation-tools(desperated)  
-zsh-completions
+
 
   
