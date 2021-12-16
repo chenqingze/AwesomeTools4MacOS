@@ -113,6 +113,7 @@ Tree
 curl  
 autojump    
 fzf  
+-------------------------------------
 zsh-autosuggestions  
 zsh-syntax-highlighting  
 zsh-history-substring-search  
