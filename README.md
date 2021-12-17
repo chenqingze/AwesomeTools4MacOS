@@ -78,15 +78,15 @@ Mounty
 # 窗口管理工具
 magnet  
 spectacle
-FinderGo(直接打开终端)
 
 # 压缩文件管理工具
 the-unarchiver
 
 # vpn 客户端
 Tunnelblick  
-v2rayx  
-shadowsocksx-ng  
+OpenVPN
+V2rayx  
+Shadowsocksx-NG  
 
 # 屏幕倒计时
 justfocus
