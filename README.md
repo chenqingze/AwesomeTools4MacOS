@@ -121,7 +121,6 @@ zsh-autosuggestions
 zsh-syntax-highlighting  
 zsh-history-substring-search  
 zsh-completions  
-zsh-navigation-tools(desperated)  
 
 
   
