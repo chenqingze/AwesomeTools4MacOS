@@ -114,7 +114,8 @@ curl
  
 ## zsh 工具  
 autojump    
-fzf     
+fzf  
+grc  
 zsh-autosuggestions  
 zsh-syntax-highlighting  
 zsh-history-substring-search  
