@@ -1,5 +1,5 @@
 # 软件包管理器
-brew
+brew   
 macports  
 
 # dotfiles 管理
