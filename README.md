@@ -96,15 +96,16 @@ karabiner-elements
 
 # 下载工具
 webtorrent  
-youtube-dl（在线视频下载） 
-
+youtube-dl（在线视频下载）  
+yt-dlp  
+ 
 # 其他  
 keycastr（屏幕显示键盘操作）   
 catchMouse（光标多屏幕移动）    
 cheatsheet（快捷键提示）  
 Wireshark  
 Charles   
-
+ 
 # 终端工具：  
 tcpdump  
 mtr  
