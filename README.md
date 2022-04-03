@@ -96,8 +96,8 @@ karabiner-elements
 
 # 下载工具
 webtorrent  
-youtube-dl/youtube-dlc/yt-dlp （在线视频下载）  
-yt-dlp  
+youtube-dl/youtube-dlc/yt-dlp/you-get （在线视频下载）  
+
  
 # 其他  
 keycastr（屏幕显示键盘操作）   
