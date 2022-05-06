@@ -29,8 +29,8 @@ IINA
 IINA-plus  
 
 # api工具
-yapi
-paw
+yapi  
+paw  
 insomnia                        
 postman
 
