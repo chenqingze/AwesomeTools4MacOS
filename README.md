@@ -122,7 +122,7 @@ fzf
 lsd     
 zsh-autosuggestions  
 zsh-syntax-highlighting  
-zsh-history-substring-search  
+zsh-autocomplete   
 zsh-completions  
 
 
