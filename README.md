@@ -23,15 +23,11 @@ microsoft-edge
 # 监控
 Htop
 
-# 播放器
-MOVIST  
-IINA  
-IINA-plus  
+# 播放器 
+IINA    
 
 # api工具
-yapi  
-paw  
-insomnia                        
+paw(RapiApi)                         
 postman
 
 
@@ -70,11 +66,12 @@ AsciiDocFX（AsciiDoc）
 # 标记语言转换  
 pandoc  
 
-# 记录工具  
-logseq  
+# 笔记/记录工具  
+goodnote  
 
 
 # 访问NTFS格式硬盘
+Tuxera Disk Manager   
 Mounty
 
 # 窗口管理工具
@@ -103,7 +100,7 @@ youtube-dl/youtube-dlc/yt-dlp/you-get （在线视频下载）
  
 # 其他  
 
-OpenInTerminal（finder 目录直接打开终端）
+OpenInTerminal（finder 目录直接打开终端）  
 keycastr（屏幕显示键盘操作）   
 catchMouse（光标多屏幕移动）    
 cheatsheet（快捷键提示）  
