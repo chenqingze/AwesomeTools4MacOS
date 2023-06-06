@@ -42,22 +42,16 @@ microsoft-remote-desktop
 Ventoy (unsupport macos)
 
 # 编辑和设计工具：
-vim（单文本编辑）  
-Emacs（C/C++/rust开发|多文件编辑）  
-emacs-plus/emacsport（C/C++/rust开发|多文件编辑）      
-Intellij-idea（Java/Go/Rust/Kotlin开发|多文件编辑）     
-microsoft-office（办公）    
+helix(重点推荐)    
+vim         
+Intellij-idea     
+webstorm  
 edraw-max（图表设计）  
-visual-paradigm-ce（软件工程管理）    
 OmniGraffle（图表设计）  
 OmniPlan（需求/任务管理）  
 Mindnode（思维导图/头脑风暴）   
-sketch（原型设计）     
-figma（原型设计）  
-flinto（交互设计）   
-principle（交互设计）   
-MacDown（markdown）  
-AsciiDocFX（AsciiDoc）   
+Balsamiq(线框图)  
+figma（原型设计）     
 
 # 标记语言转换  
 pandoc  
