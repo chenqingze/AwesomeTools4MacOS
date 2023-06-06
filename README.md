@@ -2,6 +2,10 @@
 brew   
 macports  
 
+# 清理工具  
+appcleaner  
+GrandPerspective   
+
 # dotfiles 管理
 rcm  
 chezmoi   
@@ -90,9 +94,7 @@ webtorrent
 youtube-dl/youtube-dlc/yt-dlp/you-get （在线视频下载）  
 
  
-# 其他  
-
-OpenInTerminal（finder 目录直接打开终端）  
+# 其他   
 keycastr（屏幕显示键盘操作）   
 catchMouse（光标多屏幕移动）    
 cheatsheet（快捷键提示）  
@@ -100,9 +102,9 @@ Wireshark
 Charles   
  
 # 终端工具：  
-tldr 
-tcpdump  
-mtr  
+tldr   
+tcpdump   
+mtr   
 wget   
 tree   
 curl  
