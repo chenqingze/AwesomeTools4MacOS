@@ -37,10 +37,6 @@ iterm2
 # 远程windows
 microsoft-remote-desktop
 
-# jdk相关：
-temurin(原adoptopenjdk）    
-visualvm   
-
 
 # U盘启动：
 Ventoy (unsupport macos)
@@ -76,12 +72,14 @@ Mounty
 
 # 窗口管理工具
 magnet  
-spectacle
+Rectangle  
+spectacle  
 
 # 压缩文件管理工具
 the-unarchiver
 
-# vpn 客户端
+# vpn
+surfshark
 Tunnelblick  
 OpenVPN
 V2rayx  
