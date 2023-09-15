@@ -10,19 +10,11 @@ GrandPerspective
 rcm  
 chezmoi   
 
-# 文件对比工具
-beyondcompare
-
 # 数据库客户端
 dbeaver-enterprise         
 
 # 英文字典
 eudic                           
-  
-
-# 浏览器
-firefox-developer-edition  
-microsoft-edge  
 
 # 监控
 Htop
@@ -63,10 +55,8 @@ pandoc
 # 笔记/记录工具  
 goodnote  
 
-
 # 访问NTFS格式硬盘
 Tuxera Disk Manager   
-Mounty
 
 # 窗口管理工具
 magnet  
@@ -77,11 +67,7 @@ spectacle
 the-unarchiver
 
 # vpn
-surfshark
-Tunnelblick  
-OpenVPN
-V2rayx  
-Shadowsocksx-NG  
+WireGuard 
 
 # 屏幕倒计时
 justfocus
@@ -93,6 +79,8 @@ karabiner-elements
 webtorrent  
 youtube-dl/youtube-dlc/yt-dlp/you-get （在线视频下载）  
 
+# 外接显示器亮度和音量调节工具   
+MonitorControl   
  
 # 其他   
 keycastr（屏幕显示键盘操作）   
