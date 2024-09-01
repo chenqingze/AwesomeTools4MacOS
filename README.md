@@ -1,6 +1,7 @@
 # 软件包管理器
-brew   
+homebrew   
 macports  
+Cakebrew
 
 # 清理工具  
 appcleaner  
@@ -33,7 +34,6 @@ iterm2
 # 远程windows
 microsoft-remote-desktop
 
-
 # U盘启动：
 Ventoy (unsupport macos)
 
@@ -60,6 +60,7 @@ Tuxera Disk Manager
 
 # 窗口管理工具
 magnet  
+Amethyst   
 Rectangle  
 spectacle  
 
