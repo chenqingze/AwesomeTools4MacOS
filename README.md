@@ -1,11 +1,15 @@
 # 软件包管理器
 homebrew   
-macports  
-Cakebrew
 
 # 清理工具  
 appcleaner  
 GrandPerspective   
+
+# 浏览器
+zen
+
+# 端对端文件传输
+syncthing
 
 # dotfiles 管理
 rcm  
@@ -19,6 +23,7 @@ eudic
 
 # 监控
 Htop
+stats
 
 # 播放器 
 IINA    
@@ -27,22 +32,17 @@ IINA
 paw(RapiApi)                         
 postman
 
-
 # 终端
 iterm2                          
 
 # 远程windows
-microsoft-remote-desktop
+Windows App(原microsoft-remote-desktop)
 
 # U盘启动：
 Ventoy (unsupport macos)
 
 # 编辑和设计工具：
-helix(重点推荐)    
 vim         
-Intellij-idea     
-webstorm  
-edraw-max（图表设计）  
 OmniGraffle（图表设计）  
 OmniPlan（需求/任务管理）  
 Mindnode（思维导图/头脑风暴）   
@@ -78,7 +78,7 @@ karabiner-elements
 
 # 下载工具
 webtorrent  
-youtube-dl/youtube-dlc/yt-dlp/you-get （在线视频下载）  
+yt-dlp(推荐)/youtube-dl/youtube-dlc/you-get （在线视频下载）  
 
 # 外接显示器亮度和音量调节工具   
 MonitorControl   
@@ -90,22 +90,21 @@ cheatsheet（快捷键提示）
 Wireshark  
 Charles   
  
-# 终端工具：  
+# 终端工具：
+lsd
 tldr   
 tcpdump   
-mtr   
-wget   
+mtr      
 tree   
-curl  
  
 ## zsh 工具  
 autojump    
 fzf  
 lsd     
-zsh-autosuggestions  
-zsh-syntax-highlighting  
 zsh-autocomplete   
 zsh-completions  
+zsh-autosuggestions  
+zsh-syntax-highlighting  
 
 
   
