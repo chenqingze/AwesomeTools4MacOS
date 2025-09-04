@@ -64,6 +64,15 @@ Amethyst
 Rectangle  
 spectacle  
 
+# 文件管理
+Mar​ta
+
+# menu bar 管理
+Ice
+
+# 剪贴板管理器
+Maccy
+
 # 压缩文件管理工具
 the-unarchiver
 
