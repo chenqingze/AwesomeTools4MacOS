@@ -89,7 +89,8 @@ karabiner-elements
 webtorrent  
 yt-dlp(推荐)/youtube-dl/youtube-dlc/you-get （在线视频下载）  
 
-# 外接显示器亮度和音量调节工具   
+# 显示器工具 
+BetterDisplay
 MonitorControl   
  
 # 其他   
