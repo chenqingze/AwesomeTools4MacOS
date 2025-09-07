@@ -52,8 +52,9 @@ figma（原型设计）
 # 标记语言转换  
 pandoc  
 
-# 笔记/记录工具  
+# 笔记/记录/知识管理工具  
 goodnote  
+obsidian
 
 # 访问NTFS格式硬盘
 Tuxera Disk Manager   
