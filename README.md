@@ -49,6 +49,9 @@ Mindnode（思维导图/头脑风暴）
 Balsamiq(线框图)  
 figma（原型设计）     
 
+# RSS Feed
+Reeder > News explorer > NetNewsWire(free)
+
 # 标记语言转换  
 pandoc  
 
@@ -113,7 +116,6 @@ autojump
 fzf  
 lsd     
 zsh-autocomplete   
-zsh-completions  
 zsh-autosuggestions  
 zsh-syntax-highlighting  
 
