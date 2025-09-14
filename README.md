@@ -2,6 +2,7 @@
 homebrew   
 
 # 清理工具  
+pearcleaner
 appcleaner  
 GrandPerspective   
 
@@ -89,6 +90,9 @@ justfocus
 # 键盘修改器
 karabiner-elements
 
+# Internet radio
+Radiola
+
 # 下载工具
 webtorrent  
 yt-dlp(推荐)/youtube-dl/youtube-dlc/you-get （在线视频下载）  
@@ -98,6 +102,7 @@ BetterDisplay
 MonitorControl   
  
 # 其他   
+mac-mouse-fix(鼠标) 
 keycastr（屏幕显示键盘操作）   
 catchMouse（光标多屏幕移动）    
 cheatsheet（快捷键提示）  
