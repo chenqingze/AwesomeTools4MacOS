@@ -12,8 +12,7 @@ zen
 # 端对端文件传输
 syncthing
 
-# dotfiles 管理
-rcm  
+# dotfiles 管理  
 chezmoi   
 
 # 数据库客户端
@@ -57,8 +56,8 @@ Reeder > News explorer > NetNewsWire(free)
 pandoc  
 
 # 笔记/记录/知识管理工具  
-goodnote  
-obsidian
+goodnote   
+obsidian 
 
 # 访问NTFS格式硬盘
 Tuxera Disk Manager   
@@ -98,8 +97,7 @@ webtorrent
 yt-dlp(推荐)/youtube-dl/youtube-dlc/you-get （在线视频下载）  
 
 # 显示器工具 
-BetterDisplay
-MonitorControl   
+MonitorControl    
  
 # 其他   
 mac-mouse-fix(鼠标) 
@@ -115,7 +113,9 @@ tldr
 tcpdump   
 mtr      
 tree   
- 
+pstree  
+pure (theme)
+
 ## zsh 工具  
 autojump    
 fzf  
