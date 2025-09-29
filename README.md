@@ -2,7 +2,7 @@
 homebrew   
 
 # 清理工具  
-pearcleaner
+pearcleaner  
 appcleaner  
 GrandPerspective   
 
@@ -125,8 +125,8 @@ zsh-syntax-highlighting
 
 ## theme
 
-pure (recommend for performance)  
-starship
+pure (for old mac device)  
+starship (for more features)
 
 
   
