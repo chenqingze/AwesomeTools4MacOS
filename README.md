@@ -114,7 +114,6 @@ tcpdump
 mtr      
 tree   
 pstree  
-pure (theme)
 
 ## zsh 工具  
 autojump    
@@ -123,6 +122,11 @@ lsd
 zsh-autocomplete   
 zsh-autosuggestions  
 zsh-syntax-highlighting  
+
+## theme
+
+pure (recommend for performance)  
+starship
 
 
   
