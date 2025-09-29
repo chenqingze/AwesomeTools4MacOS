@@ -16,7 +16,7 @@ syncthing
 chezmoi   
 
 # 数据库客户端
-dbeaver-enterprise         
+dbeaver   
 
 # 英文字典
 eudic                           
