@@ -2,8 +2,7 @@
 homebrew   
 
 # 清理工具  
-pearcleaner  
-appcleaner  
+[Mole](https://github.com/tw93/Mole)  
 GrandPerspective   
 
 # 浏览器
@@ -29,8 +28,9 @@ postman
 # 终端
 iterm2                          
 
-# 远程windows
-Windows App(原microsoft-remote-desktop)
+# 远程
+Windows App(原microsoft-remote-desktop,for windows)
+screensharing (build in macos ,for macos)
 
 # U盘启动：
 Ventoy (unsupport macos)
