@@ -13,15 +13,9 @@ zen
 syncthing
 
 # dotfiles 管理  
-chezmoi   
+chezmoi                               
 
-# 数据库客户端
-dbeaver   
-
-# 英文字典
-eudic                           
-
-# 监控
+# 监控工具
 Htop
 stats
 
@@ -48,6 +42,7 @@ OmniPlan（需求/任务管理）
 Mindnode（思维导图/头脑风暴）   
 Balsamiq(线框图)  
 figma（原型设计）     
+CodeRunner (coding)
 
 # RSS Feed
 Reeder > News explorer > NetNewsWire(free)
@@ -71,8 +66,10 @@ spectacle
 # 文件管理
 Mar​ta
 
-# menu bar 管理
-Ice
+# 桌面小工具
+dropoverapp(组织或删除文件)
+tuneful(音乐) 
+Ice(menu bar 管理)
 
 # 剪贴板管理器
 Maccy
@@ -85,11 +82,8 @@ WireGuard
 
 # 屏幕倒计时
 justfocus
-
-# 键盘修改器
-karabiner-elements
-
-# Internet radio
+ 
+# 网络电台
 Radiola
 
 # 下载工具
@@ -99,15 +93,20 @@ yt-dlp(推荐)/youtube-dl/youtube-dlc/you-get （在线视频下载）
 # 显示器工具 
 MonitorControl    
  
-# 其他   
+# 鼠标/键盘/触控板
+karabiner-elements (键盘修改器)
+linearmouse (鼠标触与控板配置工具)
 mac-mouse-fix(鼠标) 
 keycastr（屏幕显示键盘操作）   
 catchMouse（光标多屏幕移动）    
 cheatsheet（快捷键提示）  
+CleanupBuddy (停用键盘/鼠标)
+
+# 网络工具 
 Wireshark  
 Charles   
  
-# 终端工具：
+# 终端工具：  
 lsd
 tldr   
 tcpdump   
@@ -123,8 +122,7 @@ zsh-autocomplete
 zsh-autosuggestions  
 zsh-syntax-highlighting  
 
-## theme
-
+## theme  
 pure (for old mac device)  
 starship (for more features)
 
