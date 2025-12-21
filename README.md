@@ -5,9 +5,6 @@ homebrew
 [Mole](https://github.com/tw93/Mole)  
 GrandPerspective   
 
-# 浏览器
-zen
-
 # 端对端文件传输
 syncthing
 
