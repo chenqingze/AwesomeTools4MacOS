@@ -17,7 +17,7 @@ chezmoi
 
 # 监控工具
 Htop
-stats
+
 
 # 播放器 
 IINA    
@@ -67,8 +67,7 @@ spectacle
 Mar​ta
 
 # 桌面小工具
-dropoverapp(组织或删除文件)
-tuneful(音乐) 
+stats(cpu/memory/SSD/network) 
 Ice(menu bar 管理)
 
 # 剪贴板管理器
