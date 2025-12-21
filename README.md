@@ -1,8 +1,9 @@
 # 软件包管理器
-homebrew   
+homebrew(for gui app)   
+nix(for dev)
 
 # 清理工具  
-[Mole](https://github.com/tw93/Mole)  
+appcleaner
 GrandPerspective   
 
 # 端对端文件传输
